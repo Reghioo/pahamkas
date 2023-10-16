@@ -1267,7 +1267,7 @@ section {
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Calibri", Arimo;
-  color: #5c5c5c;
+  color: #FFC436;
 }
 
 #footer .footer-top h4 {
@@ -1314,13 +1314,13 @@ section {
 
 #footer .footer-top .footer-links ul a:hover {
   text-decoration: none;
-  color: #eb5d1e;
+  color: #FFC436;
 }
 
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #eb5d1e;
+  background: #FFC436;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1333,7 +1333,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #ef7f4d;
+  background: #FFC436;
   color: #fff;
   text-decoration: none;
 }
